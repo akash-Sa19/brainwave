@@ -18,6 +18,7 @@ export const SideLines = () => {
   );
 };
 
+// these are the circle things in the back
 export const BackgroundCircles = () => {
   return (
     <>
