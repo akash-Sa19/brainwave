@@ -1,4 +1,4 @@
-import SectionSvg from "../assets/svg/SectionSvg";
+import SectionSvg from "../../assets/svg/SectionSvg";
 
 // this component will work as a skleton fot other components
 const Section = ({

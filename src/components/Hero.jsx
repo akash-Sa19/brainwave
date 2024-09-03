@@ -1,9 +1,7 @@
 import { useRef } from "react";
 import { ScrollParallax } from "react-just-parallax";
 //  components
-import Button from "./Button";
-import Section from "./Section";
-import Generating from "./Generating";
+import { Button, Section, Generating } from "./resuableComponents/index";
 import Notification from "./Notification";
 // constants
 import { heroIcons } from "../constants";

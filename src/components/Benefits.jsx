@@ -1,6 +1,5 @@
 // components
-import Heading from "./Heading";
-import Section from "./Section";
+import { Heading, Section } from "./resuableComponents/index";
 //
 import { benefits } from "../constants";
 //

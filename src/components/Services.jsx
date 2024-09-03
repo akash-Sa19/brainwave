@@ -1,7 +1,5 @@
 // components
-import Section from "./Section";
-import Heading from "./Heading";
-import Generating from "./Generating";
+import { Section, Heading, Generating } from "./resuableComponents/index";
 // icons
 import { service1, service2, service3, check } from "../assets";
 import {
